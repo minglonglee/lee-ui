@@ -45,6 +45,9 @@
 
     <div class="mg-b20">
       <lee-button type="primary" :loading="true">加载中</lee-button>
+      <lee-button size="medium" type="primary" :loading="true">加载中</lee-button>
+      <lee-button size="small" type="primary" :loading="true">加载中</lee-button>
+      <lee-button size="mini" type="primary" :loading="true">加载中</lee-button>
     </div>
 
     <div class="mg-b20">
