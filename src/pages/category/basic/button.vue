@@ -35,13 +35,13 @@
       <lee-button type="text-danger" disabled>文字按钮</lee-button>
     </div>
 
-    <div class="mg-b20">
-      <lee-button type="primary" icon="el-icon-edit"></lee-button>
-      <lee-button type="primary" icon="el-icon-share"></lee-button>
-      <lee-button type="primary" icon="el-icon-delete"></lee-button>
-      <lee-button type="primary" icon="el-icon-search">搜索</lee-button>
-      <lee-button type="primary">上传<i class="el-icon-upload el-icon--right"></i></lee-button>
-    </div>
+    <!--<div class="mg-b20">-->
+      <!--<lee-button type="primary" icon="el-icon-edit"></lee-button>-->
+      <!--<lee-button type="primary" icon="el-icon-share"></lee-button>-->
+      <!--<lee-button type="primary" icon="el-icon-delete"></lee-button>-->
+      <!--<lee-button type="primary" icon="el-icon-search">搜索</lee-button>-->
+      <!--<lee-button type="primary">上传<i class="el-icon-upload el-icon&#45;&#45;right"></i></lee-button>-->
+    <!--</div>-->
 
     <div class="mg-b20">
       <lee-button type="primary" :loading="true">加载中</lee-button>
