@@ -274,10 +274,8 @@
 	color: #409eff;
 }
 
-.lee-button--text-primary.is-plain:hover {
- color: #66b1ff;
-}
-.lee-button--text-primary.is-plain:active {
+.lee-button--text-primary:hover { color: #66b1ff; }
+.lee-button--text-primary:active {
 	color: #3a8ee6;
 	outline: none;
 }
@@ -285,8 +283,8 @@
 .lee-button--text-success {
 	color: #67c23a;
 }
-.lee-button--text-success.is-plain:hover { color: #85ce61; }
-.lee-button--text-success.is-plain:active {
+.lee-button--text-success:hover { color: #85ce61; }
+.lee-button--text-success:active {
 	color: #5daf34;
 	outline: none;
 }
@@ -294,8 +292,8 @@
 .lee-button--text-info {
 	color: #909399;
 }
-.lee-button--text-info.is-plain:hover { color: #a6a9ad; }
-.lee-button--text-info.is-plain:active {
+.lee-button--text-info:hover { color: #a6a9ad; }
+.lee-button--text-info:active {
 	color: #82848a;
 	outline: none;
 }
@@ -303,10 +301,10 @@
 .lee-button--text-warning {
 	color: #e6a23c;
 }
-.lee-button--text-warning.is-plain:hover {
+.lee-button--text-warning:hover {
 	color: #ebb563;
 }
-.lee-button--text-warning.is-plain:active {
+.lee-button--text-warning:active {
 	color: #cf9236;
 	outline: none;
 }
@@ -314,10 +312,10 @@
 .lee-button--text-danger {
 	color: #f56c6c;
 }
-.lee-button--text-danger.is-plain:hover {
+.lee-button--text-danger :hover {
   color: #f78989;
 }
-.lee-button--text-danger.is-plain:active {
+.lee-button--text-danger :active {
 	color: #dd6161;
 	outline: none;
 }
